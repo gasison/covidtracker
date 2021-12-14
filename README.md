@@ -1,4 +1,4 @@
-# trackerapi
+# Covid19Tracker
 
 This web application is built using Vue and Tailwind, the main functionality is - it tracks the number of Covid19 cases and deaths around the world.
 
